@@ -1,0 +1,53 @@
+body {
+background-image: url('double-bubble.png');
+}
+
+h2 {
+    background-color: aquamarine;
+    color: #000000;
+    border: solid 8px black;
+    width: 500px;
+    width: 400px;
+    margin-bottom: 20px;
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    font-weight: bold;
+	font-family: Helvetica;
+    text-align: center;
+}
+
+div {
+    background-color: bisque;
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px;
+}
+
+legend {
+    font-family: 'Montserrat', sans-serif;
+}
+
+input {
+    background-color: bisque;
+}
+
+td {
+    color: blueviolet;
+}
+
+li {
+    color:hotpink;
+    border: solid 5px purple;
+    width: 150px;
+    height: 20px;
+    padding: 3px;
+    border-radius: 20px;
+    list-style-type: none;
+}
+
+input {
+    font-size: 30px;
+}
+
+fieldset {
+
+}
